@@ -8,6 +8,9 @@ target/
 # Scala Project
 project/
 
+# Haskell Stack working directory
+.stack-work
+
 # IDEA
 .idea/
 
